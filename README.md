@@ -19,4 +19,4 @@
 | <li>[x]  Avaliação 5 </li> | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-5) | Defina uma Tabela... o uso de comando SQL que executam operações CRUD. |
 | <li>[ ]  Avaliação 6 </li> | [:books:]()                                                                          | Criar uma tabela TB_CURSO com os seguintes atributos (ID, NOME)...     |
 | <li>[ ]  Avaliação 7 </li> | [:books:]()                                                                          | A partir do Banco de Dados definido no Modelo ER anexo...              |
-| <li>[ ]  Avaliação 8 </li> | [:books:]()                                                                          | Escrever um trecho de programa em Javascript que faz...                |
+| <li>[ ]  Avaliação 8 </li> | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-8) | Escrever um trecho de programa em Javascript que faz...                |
