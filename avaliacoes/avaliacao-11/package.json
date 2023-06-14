@@ -1,0 +1,15 @@
+{
+  "name": "atividade-bd",
+  "version": "1.0.0",
+  "description": "Atividade para criação CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^2.4.2",
+    "sqlite3": "^5.1.6"
+  }
+}
