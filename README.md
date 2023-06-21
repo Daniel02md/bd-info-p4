@@ -1,6 +1,7 @@
 ## Checklist e Links rápidos para as avaliações
 |                Avaliações                 | Links                                                                                | Titulos                                                                |
 | :---------------------------------------: | :----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| <li>:white_check_mark: Prova Prática-02 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/Prova%20Pratica-02) | Prova Pratica-02 Implementar uma aplicação usando Knex que envolva duas tabelas. Projeto e Tarefas.|
 | <li> :white_check_mark: Avaliação 1 </li> | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-1) | Criar um repositorio (bd-info-p4) com as pastas avaliacoes...          |
 | <li> :white_check_mark: Avaliação 2 </li> | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-2) | Responder aos exercícios 3, 4, 5, 7, 10, 11, 12 definidos...           |
 | <li> :white_check_mark: Avaliação 3 </li> | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-3) | Defina os seguintes conceitos centrais da abordagem ER.                |
@@ -11,6 +12,7 @@
 | <li>:white_check_mark: Avaliação 8 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-8) | Escrever um trecho de programa em Javascript que faz...                |
 | <li>:white_check_mark: Avaliação 9 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-9) | Usando o Knex, criar uma aplicação que inicia com a criação de migrations...                |
 | <li>:white_check_mark: Avaliação 11 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-11) | Seguir o roteiro de uma aplicação CRUD usando Knex. Seguir o ro...                |
+
 # Apresentação - Banco de Dados
 <p align="left"> Olá, este repositório tem como objetivo armazenar as atividades e avaliações que o professor passa durante o curso. Aqui você encontrará os códigos e arquivos relacionados a cada uma das atividades, bem como as avaliações realizadas.</p>
 <p align="left"> Sinta-se à vontade para explorar as pastas e arquivos disponíveis, e fazer o download dos códigos para estudo e referênca.
