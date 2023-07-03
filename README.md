@@ -11,6 +11,7 @@
 |         <li>:x: Avaliação 7 </li>         | [:books:]()                                                                          | A partir do Banco de Dados definido no Modelo ER anexo...              |
 | <li>:white_check_mark: Avaliação 8 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-8) | Escrever um trecho de programa em Javascript que faz...                |
 | <li>:white_check_mark: Avaliação 9 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-9) | Usando o Knex, criar uma aplicação que inicia com a criação de migrations...                |
+| <li>:white_check_mark: Avaliação 10 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-10) | Crie um novo diretório para o projeto e navegue até ele no terminal. Em seguida...                |
 | <li>:white_check_mark: Avaliação 11 </li>  | [:books:](https://github.com/Daniel02md/bd-info-p4/tree/main/avaliacoes/avaliacao-11) | Seguir o roteiro de uma aplicação CRUD usando Knex. Seguir o ro...                |
 
 # Apresentação - Banco de Dados
